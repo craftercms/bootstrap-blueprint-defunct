@@ -14,7 +14,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-09-30T19:39:05.506Z</lastModifiedDate>
-  <lastModifiedDate_dt>2021-09-30T19:53:05.299Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2021-09-30T19:54:44.826Z</lastModifiedDate_dt>
   <navLabel>Home</navLabel>
   <components_o item-list="true">
     <item inline="true">
@@ -35,6 +35,21 @@
         <createdDate_dt>2021-09-30T19:39:18.089Z</createdDate_dt>
         <lastModifiedDate>2021-09-30T19:39:18.089Z</lastModifiedDate>
         <lastModifiedDate_dt>2021-09-30T19:47:06.316Z</lastModifiedDate_dt>
+      </component>
+    </item>
+    <item datasource="TODO" inline="true">
+      <key>e3b9f7b6-32d8-40da-819e-ab2ac18a79f7</key>
+      <value>New Paragraph</value>
+      <component id="e3b9f7b6-32d8-40da-819e-ab2ac18a79f7">
+        <content-type>/component/paragraph</content-type>
+        <display-template>/templates/web/paragraph.ftl</display-template>
+        <internal-name><![CDATA[New Paragraph]]></internal-name>
+        <file-name>e3b9f7b6-32d8-40da-819e-ab2ac18a79f7.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2021-09-30T19:54:44.825Z</createdDate_dt>
+        <lastModifiedDate_dt>2021-09-30T19:54:44.825Z</lastModifiedDate_dt>
+        <objectId>e3b9f7b6-32d8-40da-819e-ab2ac18a79f7</objectId>
+        <paragraph_html/>
       </component>
     </item>
     <item datasource="TODO" inline="true">
