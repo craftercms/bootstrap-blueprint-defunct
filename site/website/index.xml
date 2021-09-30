@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <content-type>/page/flexpage</content-type>
-  <display-template>/templates/web/flex-page.ftl</display-template>
-  <no-template-required/>
-  <merge-strategy>inherit-levels</merge-strategy>
-  <placeInNav>false</placeInNav>
-  <file-name>index.xml</file-name>
-  <internal-name>Home</internal-name>
-  <orderDefault_f>-1</orderDefault_f>
-  <objectGroupId>8d7f</objectGroupId>
-  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-  <folder-name/>
-  <createdDate>2017-1-31T16:18:14.000Z</createdDate>
-  <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2021-09-30T18:54:55.221Z</lastModifiedDate>
-  <lastModifiedDate_dt>2021-09-30T19:37:58.247Z</lastModifiedDate_dt>
-  <navLabel>Home</navLabel>
-  <components_o item-list="true"/>
+	<content-type>/page/flexpage</content-type>
+	<display-template>/templates/web/flex-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T19:39:05.506Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T19:39:05.506Z</lastModifiedDate_dt>
+	<navLabel>Home</navLabel>
+	<components_o item-list="true">	<item inline="true">	<key>1fff7d6f-1df1-ce47-be97-dedcb0bbddde</key>
+	<value>Paragraph</value>
+<component id="1fff7d6f-1df1-ce47-be97-dedcb0bbddde">
+	<content-type>/component/paragraph</content-type>
+	<display-template>/templates/web/paragraph.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1fff</objectGroupId>
+	<objectId>1fff7d6f-1df1-ce47-be97-dedcb0bbddde</objectId>
+	<file-name>1fff7d6f-1df1-ce47-be97-dedcb0bbddde.xml</file-name>
+	<folder-name/>
+	<internal-name>Paragraph</internal-name>
+	<paragraph_html>bnhj</paragraph_html>
+	<createdDate>2021-09-30T19:39:18.089Z</createdDate>
+	<createdDate_dt>2021-09-30T19:39:18.089Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T19:39:18.089Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T19:39:18.089Z</lastModifiedDate_dt>
+</component>
+	</item></components_o>
 </page>
