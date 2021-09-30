@@ -14,24 +14,9 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-09-30T18:54:55.221Z</lastModifiedDate>
-  <lastModifiedDate_dt>2021-09-30T18:56:19.060Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2021-09-30T19:37:55.512Z</lastModifiedDate_dt>
   <navLabel>Home</navLabel>
   <components_o item-list="true">
-    <item datasource="TODO" inline="true">
-      <key>ea64b1d0-5ac3-42df-8f53-b78bf21ec949</key>
-      <value>New Paragraph</value>
-      <component id="ea64b1d0-5ac3-42df-8f53-b78bf21ec949">
-        <content-type>/component/paragraph</content-type>
-        <display-template>/templates/web/paragraph.ftl</display-template>
-        <internal-name><![CDATA[New Paragraph]]></internal-name>
-        <file-name>ea64b1d0-5ac3-42df-8f53-b78bf21ec949.xml</file-name>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <createdDate_dt>2021-09-30T18:55:03.951Z</createdDate_dt>
-        <lastModifiedDate_dt>2021-09-30T18:55:03.951Z</lastModifiedDate_dt>
-        <objectId>ea64b1d0-5ac3-42df-8f53-b78bf21ec949</objectId>
-        <paragraph_html/>
-      </component>
-    </item>
     <item>
       <key>/site/components/component_paragraph/26513b27-9aab-d312-857d-78d2484d7525.xml</key>
       <value>Paragraph 1</value>
