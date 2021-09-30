@@ -6,6 +6,9 @@
 		<meta charset="utf-8">
 		<title>${model.title_t}</title>
 		<@crafter.head/>
+        <style>
+            .craftercms-ice-on *:empty { height:50px }
+        </style>
 	</head>
 	<body>
 		<@crafter.body_top/>
