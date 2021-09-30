@@ -9,9 +9,7 @@
 	</head>
 	<body>
 		<@crafter.body_top/>
-		<#list contentModel.components_o.item as module>
-        	<@renderComponent component=module />
-        </#list>
+        <@crafter.renderComponentCollection $field="components_o" />
 		<@crafter.body_bottom/>
 	</body>
 </html>
