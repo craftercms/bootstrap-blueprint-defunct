@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/flexpage</content-type>
-	<display-template>/templates/web/flex-page.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<placeInNav>false</placeInNav>
-	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
-	<orderDefault_f>-1</orderDefault_f>
-	<objectGroupId>8d7f</objectGroupId>
-	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-	<folder-name/>
-	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
-	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T19:55:08.912Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T19:55:08.912Z</lastModifiedDate_dt>
-	<navLabel>Home</navLabel>
-	<components_o item-list="true"/>
+  <content-type>/page/flexpage</content-type>
+  <display-template>/templates/web/flex-page.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <placeInNav>false</placeInNav>
+  <file-name>index.xml</file-name>
+  <internal-name>Home</internal-name>
+  <orderDefault_f>-1</orderDefault_f>
+  <objectGroupId>8d7f</objectGroupId>
+  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+  <folder-name/>
+  <createdDate>2017-1-31T16:18:14.000Z</createdDate>
+  <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+  <lastModifiedDate>2021-09-30T19:55:08.912Z</lastModifiedDate>
+  <lastModifiedDate_dt>2021-09-30T19:55:30.908Z</lastModifiedDate_dt>
+  <navLabel>Home</navLabel>
+  <components_o item-list="true">
+    <item datasource="TODO" inline="true">
+      <key>c1ef40ef-1b49-485b-aa4e-772ae23b312d</key>
+      <value>New Paragraph</value>
+      <component id="c1ef40ef-1b49-485b-aa4e-772ae23b312d">
+        <content-type>/component/paragraph</content-type>
+        <display-template>/templates/web/paragraph.ftl</display-template>
+        <internal-name><![CDATA[New Paragraph]]></internal-name>
+        <file-name>c1ef40ef-1b49-485b-aa4e-772ae23b312d.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2021-09-30T19:55:30.907Z</createdDate_dt>
+        <lastModifiedDate_dt>2021-09-30T19:55:30.907Z</lastModifiedDate_dt>
+        <objectId>c1ef40ef-1b49-485b-aa4e-772ae23b312d</objectId>
+        <paragraph_html/>
+      </component>
+    </item>
+  </components_o>
 </page>
