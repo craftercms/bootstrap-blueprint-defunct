@@ -13,8 +13,12 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T18:49:49.971Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T18:49:49.971Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-09-30T18:53:58.002Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T18:53:58.002Z</lastModifiedDate_dt>
 	<navLabel>Home</navLabel>
-	<components_o item-list="true"/>
+	<components_o item-list="true">	<item>	<key>/site/components/component_paragraph/26513b27-9aab-d312-857d-78d2484d7525.xml</key>
+	<value>Paragraph 1</value>
+	<include>/site/components/component_paragraph/26513b27-9aab-d312-857d-78d2484d7525.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></components_o>
 </page>
