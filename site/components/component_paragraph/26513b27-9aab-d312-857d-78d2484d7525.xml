@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/paragraph</content-type>
+	<display-template>/templates/web/paragraph.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2651</objectGroupId>
+	<objectId>26513b27-9aab-d312-857d-78d2484d7525</objectId>
+	<internal-name>Paragraph 1</internal-name>
+	<file-name>26513b27-9aab-d312-857d-78d2484d7525.xml</file-name>
+	<folder-name/>
+	<paragraph_html>&lt;strong&gt;Lorem Ipsum&lt;/strong&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</paragraph_html>
+	<createdDate>2021-09-30T18:54:04.343Z</createdDate>
+	<createdDate_dt>2021-09-30T18:54:04.343Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T18:54:04.343Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T18:54:04.343Z</lastModifiedDate_dt>
+</component>
