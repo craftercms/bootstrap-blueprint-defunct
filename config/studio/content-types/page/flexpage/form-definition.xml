@@ -158,7 +158,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>componentsds</value>
+							<value>flexPageDropTarget</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -189,13 +189,48 @@
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>embedded-content</type>
-					<id>componentsds</id>
-					<title>Components Data Source</title>
+					<type>dropTargets</type>
+					<id>flexPageDropTarget</id>
+					<title>Flex Page Drop Target</title>
 					<interface>item</interface>
 					<properties>
 						<property>
-							<name>contentType</name>
+							<name>allowShared</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>allowEmbedded</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableBrowse</name>
+							<value>false</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableSearch</name>
+							<value>false</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>baseRepositoryPath</name>
+							<value>/site/components</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>baseBrowsePath</name>
+							<value>/site/components</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>contentTypes</name>
+							<value>*</value>
+								<type>contentTypes</type>
+						</property>
+						<property>
+							<name>tags</name>
 							<value></value>
 								<type>string</type>
 						</property>
