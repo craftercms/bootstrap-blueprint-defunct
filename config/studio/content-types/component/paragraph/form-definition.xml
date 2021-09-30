@@ -64,7 +64,7 @@
 					<iceId></iceId>
 					<title>Internal Name</title>
 					<description></description>
-					<defaultValue></defaultValue>
+					<defaultValue>Paragraph</defaultValue>
 					<help></help>
 					<properties>
 						<property>
@@ -76,6 +76,21 @@
 							<name>maxlength</name>
 							<value>50</value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>escapeContent</name>
+							<value>false</value>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -107,7 +122,7 @@
 						</property>
 						<property>
 							<name>autoGrow</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
@@ -117,7 +132,7 @@
 						</property>
 						<property>
 							<name>forceRootBlockPTag</name>
-							<value>true</value>
+							<value>false</value>
 							<type>boolean</type>
 						</property>
 						<property>
