@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<@crafter.body_top/>
-		<#list contentModel.component_o.item as module>
+		<#list contentModel.components_o.item as module>
         	<@renderComponent component=module />
         </#list>
 		<@crafter.body_bottom/>
