@@ -13,8 +13,26 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T18:38:09.903Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T18:38:09.903Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-09-30T18:48:49.697Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T18:48:49.697Z</lastModifiedDate_dt>
 	<navLabel>Home</navLabel>
-	<components_o item-list="true"/>
+	<components_o item-list="true">	<item inline="true">	<key>2850eab9-cb46-1aec-3c6e-0e01b8c61e32</key>
+	<value>Paragraph</value>
+<component id="2850eab9-cb46-1aec-3c6e-0e01b8c61e32">
+	<content-type>/component/paragraph</content-type>
+	<display-template>/templates/web/paragraph.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2850</objectGroupId>
+	<objectId>2850eab9-cb46-1aec-3c6e-0e01b8c61e32</objectId>
+	<file-name>2850eab9-cb46-1aec-3c6e-0e01b8c61e32.xml</file-name>
+	<folder-name/>
+	<internal-name>Paragraph</internal-name>
+	<paragraph_html>asf</paragraph_html>
+	<createdDate>2021-09-30T18:48:58.724Z</createdDate>
+	<createdDate_dt>2021-09-30T18:48:58.724Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T18:48:58.724Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T18:48:58.724Z</lastModifiedDate_dt>
+</component>
+	</item></components_o>
 </page>
