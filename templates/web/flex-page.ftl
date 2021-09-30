@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<@crafter.body_top/>
-        <@crafter.renderComponentCollection $field="components_o" />
+        <@crafter.renderComponentCollection $field="components_o" /> <!-- disabled -->
 		<@crafter.body_bottom/>
 	</body>
 </html>
