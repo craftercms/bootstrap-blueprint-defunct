@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<@crafter.body_top/>
-        <@crafter.renderComponentCollection $field="components_o" /> <!-- disabled -->
+        <@crafter.renderComponentCollection $field="components_o" $itemAttrs={ "style": "min-height:300px; min-width:300px" } />
 		<@crafter.body_bottom/>
 	</body>
 </html>
